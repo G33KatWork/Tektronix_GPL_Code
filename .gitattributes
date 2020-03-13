@@ -1,0 +1,6 @@
+apps.tar.gz filter=lfs diff=lfs merge=lfs -text
+libs.tar.gz filter=lfs diff=lfs merge=lfs -text
+linux2.tar.gz filter=lfs diff=lfs merge=lfs -text
+linux.tar.gz filter=lfs diff=lfs merge=lfs -text
+u-boot.tar.gz filter=lfs diff=lfs merge=lfs -text
+compiler/gcc-linaro-4.9-2016.02-x86_64_arm-linux-gnueabihf.tar.xz filter=lfs diff=lfs merge=lfs -text
